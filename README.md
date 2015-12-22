@@ -1,8 +1,6 @@
 # Alternis-Kerbol-Rekerjiggered
 A mod for Kerbal Space Program that reorganizes the solar system's planets. Actually, it's the reboot of the mod, after the original dev (NovaSilisko) stopped developing.
 
-Now actually compatible with Kopernicus 1.0.5!
-
 **Alternis--the God of Change and Difference--decided to smite the heck out of the Kerbal's home solar system. This is what happened.**
 
 ![http://forum.kerbalspaceprogram.com/threads/133562-Kopernicus-1-0-4-Alternis-Kerbol-Rekerjiggered-Beta-0-1?p=2180779#post2180779](http://i.imgur.com/dmOap2l.png)
@@ -17,30 +15,12 @@ This mod requires the Kopernicus Plugin to function.
 
 The mod also includes PlanetShine and DistantObject configs. You must install those mods first, then overwrite their configs.
 
-There's also redone science definitions available. To use them you must backup your stock config and replace it. It is in GameData/Squad/Resources/ScienceDefs.cfg
+An optional Moonlet Bop is available. It can be used by placing Extras/GameData/AlternisMoonlet into your KSP GameData folder alongwith the AlternisKerbol folder.
 
 Alternis Kerbol was originally created by NovaSilisko for Kerbal Space program version 0.23. All of the art assets belong to him. Everything in the mod is based off of what NovaSilisko developed.
 
 The most important gameplay change of Alternis Kerbol is that** Kerbin orbits the gas planet Jool**, along with several other moons.
 This means that it can be easier to fly to neighboring bodies such as Mun, Laythe, Minmus, Bop, and Pol.
-
-[A link to some Alternis Flavored Stockalike Flags](http://forum.kerbalspaceprogram.com/threads/133528-Flags-Alternis-themed-versions-of-stock-KSP-flags)
-New pics in 1.5:
-![http://i.imgur.com/iQDDZXX.png](http://i.imgur.com/iQDDZXX.png)
-![http://i.imgur.com/e2w6h7B.png](http://i.imgur.com/e2w6h7B.png)
-![http://i.imgur.com/K5xLrgB.png](http://i.imgur.com/K5xLrgB.png)
-![http://i.imgur.com/ovtza0O.png](http://i.imgur.com/ovtza0O.png)
-![http://i.imgur.com/7OCzbeq.png](http://i.imgur.com/7OCzbeq.png)
-![http://i.imgur.com/SwqjjGn.png](http://i.imgur.com/SwqjjGn.png)
-
-Pics from 1.4:
-![http://i.imgur.com/g5ODsN9.jpg](http://i.imgur.com/g5ODsN9.jpg)
-![http://i.imgur.com/HIo646w.jpg](http://i.imgur.com/HIo646w.jpg)
-![http://i.imgur.com/NJ6W1Nn.jpg](http://i.imgur.com/NJ6W1Nn.jpg)
-![http://i.imgur.com/1PfGO8w.png](http://i.imgur.com/eg8W1ZG.jpg)
-
-
-[Full album link](http://imgur.com/a/t3saZ)
 
 
 Here's the **list of changes**, as true as possible to the original Alternis Kerbol mod.
@@ -62,6 +42,7 @@ Here's the **list of changes**, as true as possible to the original Alternis Ker
 * Atmosphere: Colors have been modified to simulate the lighting from the warmer sun.
 * Sun: Shrunk to 7500 km and gravity increased so that the planets move at the right velocity.
 * General: Most orbits have at least some inclination and eccentricity now, as opposed to being perfect circles like the Kerbin system.
+* Science: Science configs have been made for all modified bodies. They do not overwrite the stock ones permanantly, but the stock ones will not appear while the mod is installed.
 
 **Known Problems**
 
