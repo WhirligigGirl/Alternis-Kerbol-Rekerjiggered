@@ -9,7 +9,7 @@ Now actually compatible with Kopernicus 1.0.5!
 
 NOTE: DELETE ALL CACHES FROM PREVIOUS VERSIONS IN Gamedata/Kopernicus/Cache BEFORE INSTALLING A NEW VERSION.
 
-Alternis Kerbol Rekerjiggered is the (properly done) rerelease of the classic, wonderful, and beautiful v0.23 mod for KSP: **Alternis Kerbol.** 
+Alternis Kerbol Rekerjiggered is the rerelease of the classic, wonderful, and beautiful v0.23 mod for KSP: **Alternis Kerbol.** 
 It grabs and re-arranges the solar system bodies to create something new. Almost all bodies have been changed somehow, 
 be it in a large way or a small way. Two objects are even comets.
 
@@ -62,13 +62,6 @@ Here's the **list of changes**, as true as possible to the original Alternis Ker
 * Atmosphere: Colors have been modified to simulate the lighting from the warmer sun.
 * Sun: Shrunk to 7500 km and gravity increased so that the planets move at the right velocity.
 * General: Most orbits have at least some inclination and eccentricity now, as opposed to being perfect circles like the Kerbin system.
-
-**To-Do list for the Future**
-
-* Add trees to Laythe
-* Biomes for altered celestial bodies. (Basic versions already implemented)
-* change sun's surface color.
-* Make Bop a moon of Kerbin as an optional version.
 
 **Known Problems**
 
