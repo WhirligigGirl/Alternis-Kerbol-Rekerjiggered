@@ -1,0 +1,125 @@
+@EXPERIMENT_DEFINITION:HAS[#id[scienceName]]:FOR[AlternisKerbol]
+{
+	@RESULTS
+	{
+		Body
+		{
+			name = AKR/Sun
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Moho
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Eve
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Jool
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Minmus
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Laythe
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Mun
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Kerbin
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Bop
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Pol
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Tylo
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Dres
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Duna
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Gilly
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Eeloo
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Vall
+			Values
+			{
+			}
+		}
+		Body
+		{
+			name = AKR/Ike
+			Values
+			{
+			}
+		}
+	}
+}
